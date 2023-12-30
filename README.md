@@ -23,7 +23,7 @@ print(Norm_of_matrix)
 Program to find 2-norm of a matrix.
 Developed by: Swaminathan V
 RegisterNumber: 23000747
-'''
+
 import numpy as np
 
 # Type your code here
@@ -38,7 +38,7 @@ print(Norm_of_matrix)
 Program to find Infinity norm of a matrix.
 Developed by: Swaminathan V
 RegisterNumber: 23000747
-'''
+
 import numpy as np
 
 mat = np.array(eval(input()))
